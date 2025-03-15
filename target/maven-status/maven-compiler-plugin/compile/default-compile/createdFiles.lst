@@ -1,0 +1,6 @@
+com\example\springbootwebmvc\protobuf\ExampleProtos.class
+com\example\springbootwebmvc\protobuf\ExampleProtos$Person$Builder.class
+com\example\springbootwebmvc\protobuf\ExampleProtos$Person.class
+com\example\springbootwebmvc\protobuf\ExampleProtos$1.class
+com\example\springbootwebmvc\protobuf\ExampleProtos$Person$1.class
+com\example\springbootwebmvc\protobuf\ExampleProtos$PersonOrBuilder.class

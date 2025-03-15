@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package com.example.springbootwebmvc;
+
+option java_package = "com.example.springbootwebmvc.protobuf";
+option java_outer_classname = "ExampleProtos";
+
+message Person {
+  string name = 1;
+  int32 id = 2;
+  string email = 3;
+} 
