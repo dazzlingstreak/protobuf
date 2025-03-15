@@ -8,5 +8,6 @@ class SpringbootWebmvcApplicationTests {
     @Test
     void contextLoads() {
         String str = "Hello, World!";
+        System.out.println(str);
     }
 } 

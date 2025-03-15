@@ -14,7 +14,7 @@ public class ProtobufTest {
                 .setEmail("jdoe@example.com")
                 .build();
 
-        // 序列化
+        // 序列化123123
         byte[] serialized = person.toByteArray();
         assertNotNull(serialized);
         assertTrue(serialized.length > 0);
